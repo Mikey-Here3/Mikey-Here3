@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>👋 Hi, I'm Ashan Mir! I'm a passionate Frontend Developer skilled in HTML, CSS, JavaScript, and React.js. I love building high-quality projects and sharing them with the community.<br><br>🔧 Tech Stack<br>💻 Frontend: HTML, CSS, JavaScript, React.js<br>🎨 Styling: Tailwind CSS<br>⚙️ Tools: Git, GitHub, VS Code, Figma<br><br>🌱 Currently Learning<br>Exploring Next.js, TypeScript, and optimizing web performance.<br><br>📫 Connect with Me<br>GitHub: Mikey-Here3<br>Instagram: @ashanmir.69
+🚀👋 Hi, I'm Ashan Mir! I'm a passionate Frontend Developer skilled in HTML, CSS, JavaScript, and React.js. I love building high-quality projects and sharing them with the community.<br><br>🔧 Tech Stack<br>💻 Frontend: HTML, CSS, JavaScript, React.js<br>🎨 Styling: Tailwind CSS<br>⚙️ Tools: Git, GitHub, VS Code, Figma<br><br>🌱 Currently Learning<br>Exploring Next.js, TypeScript, and optimizing web performance.<br><br>📫 Connect with Me<br>GitHub: Mikey-Here3<br>Instagram: @ashanmir.69
 
 
 ## 🌐 Socials:
