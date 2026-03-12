@@ -1,27 +1,159 @@
-# 💫 About Me:
-🚀  Hi, I'm Ashan Mir! I'm a passionate Frontend Developer skilled in HTML, CSS, JavaScript, and React.js. I love building high-quality projects and sharing them with the community.<br><br>🔧 Tech Stack<br>💻 Frontend: HTML, CSS, JavaScript, React.js<br>🎨 Styling: Tailwind CSS<br>⚙️ Tools: Git, GitHub, VS Code, Figma<br><br>🌱 Currently Learning<br>Exploring Next.js, TypeScript, and optimizing web performance.<br><br>📫 Connect with Me<br>GitHub: Mikey-Here3<br>Instagram: @ashanmir.69
+<div align="center">
 
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:00f0ff,100:b44aff&height=200&section=header&text=MIKEY&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20%26%20Digital%20Artisan&descAlignY=60&descColor=ffffff99" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ashan.mir69/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashan.mir69/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@mikeytech3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashanmirofficial@gmail.com) 
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+real+products+that+ship+%F0%9F%94%A5" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mikey-Here3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mikey-Here3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikey-Here3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mikey-Here3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Social badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-050510?style=for-the-badge&logo=vercel&logoColor=00f0ff)](https://mikey-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mikey-Here3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mikey-Here3&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```ts
+const mikey = {
+  role:       "Full-Stack Developer",
+  location:   "Pakistan 🇵🇰",
+  focus:      ["Next.js", "Node.js", "PostgreSQL", "Prisma"],
+  currentlyBuilding: "StudyHouse — University Academic Resource Platform",
+  funFact:    "I turn caffeine into deployable code ☕→🚀",
+};
+```
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| 🏫 **StudyHouse** | Full-stack academic resource platform with admin moderation, PDF preview, ratings & bookmarks | Next.js · Node.js · PostgreSQL · Cloudinary · Railway | [studyhouse.online](https://www.studyhouse.online) |
+| 📦 **StockPilot Pro** | Inventory management system with real-time analytics dashboard | Next.js · React · TailwindCSS | [Live](https://stockpilot-pro.vercel.app) |
+| 👟 **SoleVault** | Premium multi-brand shoe e-commerce with Stripe checkout | Next.js · Stripe · Auth.js · PostgreSQL | [Live](https://solevault-final.vercel.app) |
+| 📚 **StudyHouse NUML** | Academic portal for NUML students — past papers & exam resources | Next.js · React · MongoDB | [Live](https://studyhouse-eight.vercel.app) |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<!-- Frontend -->
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+<!-- Tools -->
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikey-Here3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050510&title_color=00f0ff&icon_color=b44aff&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikey-Here3&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00f0ff&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mikey-Here3&theme=tokyonight&hide_border=true&background=050510&ring=00f0ff&fire=b44aff&currStreakLabel=00f0ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mikey-Here3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Mikey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mikey-Here3&bg_color=050510&color=00f0ff&line=b44aff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b44aff,50:00f0ff,100:050510&height=120&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=Mikey-Here3&label=Profile+Views&color=00f0ff&style=flat" alt="profile views" />
+
+</div>
+````
+
+---
+
+## Step 3 — Polish Your GitHub Profile Settings
+
+Go to **github.com/settings/profile** and fill these out:
+
+| Field | What to write |
+|---|---|
+| **Name** | Mikey |
+| **Bio** | Full-Stack Dev · Next.js · Node.js · Building things that ship 🚀 |
+| **Location** | Pakistan |
+| **Website** | https://mikey-portfolio.vercel.app |
+| **Twitter** | your handle if you have one |
+
+---
+
+## Step 4 — Pin Your Best Repos
+
+1. Go to your profile page
+2. Click **"Customize your pins"**
+3. Pin these repos in this order: `studyhouse` → `stockpilot-pro` → `solevault` → `studyhouse-numl`
+
+---
+
+## Step 5 — Make Repos Look Professional
+
+For each pinned repo, go to **Settings** and add:
+
+- ✅ **Description** — one clear sentence
+- ✅ **Website** — the live link
+- ✅ **Topics** — e.g. `nextjs`, `postgresql`, `fullstack`, `tailwindcss`
+
+---
+
+## Step 6 — Things That Make It Extra Extraordinary
+
+- 🟩 **Commit daily** — even small things. Green squares matter to recruiters
+- ⭐ **Star your own repos** — looks better than 0 stars
+- 📌 **Add a `README.md` to every pinned repo** with screenshots, setup instructions, and a live link badge
+- 🖼️ Add a **professional avatar** — no default identicon
