@@ -87,15 +87,7 @@ const mikey = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mikey-Here3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -116,38 +108,6 @@ const mikey = {
 
 </div>
 ````
-
----
-
-## Step 3 — Polish Your GitHub Profile Settings
-
-Go to **github.com/settings/profile** and fill these out:
-
-| Field | What to write |
-|---|---|
-| **Name** | Mikey |
-| **Bio** | Full-Stack Dev · Next.js · Node.js · Building things that ship 🚀 |
-| **Location** | Pakistan |
-| **Website** | https://mikey-portfolio.vercel.app |
-| **Twitter** | your handle if you have one |
-
----
-
-## Step 4 — Pin Your Best Repos
-
-1. Go to your profile page
-2. Click **"Customize your pins"**
-3. Pin these repos in this order: `studyhouse` → `stockpilot-pro` → `solevault` → `studyhouse-numl`
-
----
-
-## Step 5 — Make Repos Look Professional
-
-For each pinned repo, go to **Settings** and add:
-
-- ✅ **Description** — one clear sentence
-- ✅ **Website** — the live link
-- ✅ **Topics** — e.g. `nextjs`, `postgresql`, `fullstack`, `tailwindcss`
 
 ---
 
