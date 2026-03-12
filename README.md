@@ -26,14 +26,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
+
 ## 🧠 Who Am I
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td width="60%" valign="top">
 
 <pre>
-
 const mikey = {
   name: "Mikey",
   location: "Pakistan 🇵🇰",
@@ -43,29 +43,29 @@ const mikey = {
     frontend: ["Next.js","React","TypeScript","TailwindCSS"],
     backend: ["Node.js","Express","Prisma","REST APIs"],
     database: ["PostgreSQL","MongoDB"],
-    devops: ["Vercel","Railway","Cloudinary"],
+    devops: ["Vercel","Railway","Cloudinary"]
   },
 
   building: "StudyHouse Platform 🏫",
   available: true,
   funFact: "☕ → 💻 → 🚀 (repeat)"
 }
-
 </pre>
 
 </td>
 
-<td valign="top" width="40%">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 ## 🚀 Featured Projects
 
