@@ -16,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f0ff?style=for-the-badge&labelColor=050510)](https://mikey-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashanmirofficial@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=Mikey-Here3&label=👁️+Profile+Views&color=00f0ff&style=for-the-badge)](https://github.com/Mikey-Here3)
 
 </div>
@@ -222,7 +222,7 @@ Academic portal for NUML university — past papers, midterm & end-term resource
 ````
 
 [![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-050510?style=for-the-badge&logo=vercel&logoColor=00f0ff)](https://mikey-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashanmirofficial@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 
 <br/>
@@ -231,17 +231,3 @@ Academic portal for NUML university — past papers, midterm & end-term resource
 
 </div>
 ````
-
----
-
-## What changed vs before
-
-| Before | Now |
-|---|---|
-| Trophy section (empty, ugly) | ❌ Removed entirely |
-| Plain project table | ✅ 2×2 card grid with live badges per project |
-| Single coding gif | ✅ Side-by-side layout with gif next to code block |
-| Generic footer | ✅ "Let's Work Together" CTA section |
-| Flat animated bar | ✅ Cylinder capsule header (more unique) |
-
-**Don't forget** — replace ``your-linkedin` and `your@gmail.com` with your real details before committing.
