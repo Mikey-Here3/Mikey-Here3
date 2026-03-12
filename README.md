@@ -31,40 +31,70 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-<pre>
-const mikey = {
-  name: "Mikey",
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=999999&color=00F0FF&vCenter=true&width=480&lines=const+mikey+%3D+%7B" alt="" />
+
+````
+  name:     "Mikey",
   location: "Pakistan 🇵🇰",
-  role: "Full-Stack Developer",
+  role:     "Full-Stack Developer",
 
   stack: {
-    frontend: ["Next.js","React","TypeScript","TailwindCSS"],
-    backend: ["Node.js","Express","Prisma","REST APIs"],
-    database: ["PostgreSQL","MongoDB"],
-    devops: ["Vercel","Railway","Cloudinary"]
+    frontend:  ["Next.js", "React", "TypeScript"],
+    backend:   ["Node.js", "Express", "Prisma"],
+    database:  ["PostgreSQL", "MongoDB"],
+    devops:    ["Vercel", "Railway", "Cloudinary"],
   },
 
-  building: "StudyHouse Platform 🏫",
-  available: true,
-  funFact: "☕ → 💻 → 🚀 (repeat)"
-}
-</pre>
+  building:  "StudyHouse Platform 🏫",
+  available:  true,
+  funFact:   "☕ → 💻 → 🚀 (repeat)",
+};
+````
 
 </td>
+<td width="45%" valign="middle" align="center">
 
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:10px"/>
 
 </td>
 </tr>
 </table>
+````
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+But honestly, **GitHub tables are unreliable for side-by-side layouts** — they often break on mobile or render differently per browser. The most battle-tested approach used by top GitHub profiles is this instead:
+
+````md
+## 🧠 Who Am I
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+
+```ts
+const mikey = {
+  name:     "Mikey",
+  location: "Pakistan 🇵🇰",
+  role:     "Full-Stack Developer",
+
+  stack: {
+    frontend:  ["Next.js", "React", "TypeScript", "TailwindCSS"],
+    backend:   ["Node.js", "Express", "Prisma", "REST APIs"],
+    database:  ["PostgreSQL", "MongoDB"],
+    devops:    ["Vercel", "Railway", "Cloudinary"],
+  },
+
+  building:  "StudyHouse Platform 🏫",
+  available:  true,
+  funFact:   "☕ → 💻 → 🚀 (repeat)",
+};
+```
+
+<br clear="right"/>
+````
+
+---
 
 
 ## 🚀 Featured Projects
