@@ -26,33 +26,35 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
 ## 🧠 Who Am I
 
 <table>
 <tr>
 <td valign="top" width="60%">
 
-```typescript
-const mikey: Developer = {
-  name:     "Mikey",
+<pre>
+
+const mikey = {
+  name: "Mikey",
   location: "Pakistan 🇵🇰",
-  role:     "Full-Stack Developer",
+  role: "Full-Stack Developer",
 
   stack: {
-    frontend:  ["Next.js","React","TypeScript","TailwindCSS"],
-    backend:   ["Node.js","Express","Prisma","REST APIs"],
-    database:  ["PostgreSQL","MongoDB"],
-    devops:    ["Vercel","Railway","Cloudinary"],
+    frontend: ["Next.js","React","TypeScript","TailwindCSS"],
+    backend: ["Node.js","Express","Prisma","REST APIs"],
+    database: ["PostgreSQL","MongoDB"],
+    devops: ["Vercel","Railway","Cloudinary"],
   },
 
-  building:  "StudyHouse Platform 🏫",
-  available: true,  // open to opportunities
-  funFact:   "☕ → 💻 → 🚀 (repeat)",
-};
-```
+  building: "StudyHouse Platform 🏫",
+  available: true,
+  funFact: "☕ → 💻 → 🚀 (repeat)"
+}
+
+</pre>
 
 </td>
+
 <td valign="top" width="40%">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px"/>
@@ -64,8 +66,6 @@ const mikey: Developer = {
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 ## 🚀 Featured Projects
 
